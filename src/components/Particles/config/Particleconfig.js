@@ -1,5 +1,5 @@
 const particlesConfig = {particles: {
-  options:{fullscreen:{enable:false,zIndex:0}},
+  options:{fullscreen:{enable:false, zIndex:-1}},
   color: {
     value: "#ff0000",
     animation: {
